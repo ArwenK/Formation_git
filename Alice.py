@@ -6,4 +6,8 @@ Created on Thu Oct  1 16:48:19 2020
 @author: alicekrychowskimac
 """
 
+
 import numpy as np
+
+a = 25
+
