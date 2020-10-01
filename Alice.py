@@ -6,3 +6,4 @@ Created on Thu Oct  1 16:48:19 2020
 @author: alicekrychowskimac
 """
 
+a = 25
